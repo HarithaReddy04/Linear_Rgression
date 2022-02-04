@@ -1,5 +1,11 @@
 # Simple-Linear-Regression
 
+Name: Haritha C V
+
+Roll No:20191CSE0185
+
+Section:5cse4
+
 A simple python program that implements Linear Regression on a sample dataset. The programuses sklearn.linear_model from the scikit-learn library to import the class LinearRegression. The object of the class is declared and is fitted with the X_Train and Y_Train data.
 
 Y_Pred stores the predicted values of X_Test
